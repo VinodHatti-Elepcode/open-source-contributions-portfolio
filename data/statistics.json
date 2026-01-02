@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-01T01:19:27.806299",
+  "generated_at": "2026-01-02T01:13:12.254673",
   "overall": {
     "total_commits": 2,
     "total_prs": 5,
@@ -32,7 +32,7 @@
   "repositories": {
     "repositories": [
       {
-        "repository": "VinodHatti-Elepcode/VinodHatti-Elepcode",
+        "repository": "VinodHatti-AI-Developer/VinodHatti-Elepcode",
         "commits": 2,
         "prs": 0,
         "issues": 0,

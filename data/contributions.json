@@ -1,24 +1,24 @@
 {
   "metadata": {
-    "last_updated": "2026-01-01T01:19:14.930164",
-    "username": "VinodHatti-Elepcode"
+    "last_updated": "2026-01-02T01:13:00.022997",
+    "username": "VinodHatti-AI-Developer"
   },
   "commits": [
     {
-      "repository": "VinodHatti-Elepcode/VinodHatti-Elepcode",
-      "repo_url": "https://github.com/VinodHatti-Elepcode/VinodHatti-Elepcode",
+      "repository": "VinodHatti-AI-Developer/VinodHatti-Elepcode",
+      "repo_url": "https://github.com/VinodHatti-AI-Developer/VinodHatti-Elepcode",
       "sha": "91d48fa",
       "message": "Revise README for AI and Python career roadmap",
       "date": "2025-12-23T19:43:07+00:00",
-      "url": "https://github.com/VinodHatti-Elepcode/VinodHatti-Elepcode/commit/91d48fade079755c591611ec5495864b4f28c94e"
+      "url": "https://github.com/VinodHatti-AI-Developer/VinodHatti-Elepcode/commit/91d48fade079755c591611ec5495864b4f28c94e"
     },
     {
-      "repository": "VinodHatti-Elepcode/VinodHatti-Elepcode",
-      "repo_url": "https://github.com/VinodHatti-Elepcode/VinodHatti-Elepcode",
+      "repository": "VinodHatti-AI-Developer/VinodHatti-Elepcode",
+      "repo_url": "https://github.com/VinodHatti-AI-Developer/VinodHatti-Elepcode",
       "sha": "dbfc4fe",
       "message": "Initial commit",
       "date": "2025-12-23T19:41:32+00:00",
-      "url": "https://github.com/VinodHatti-Elepcode/VinodHatti-Elepcode/commit/dbfc4fecd20288337861c79b9dfa2721745e5270"
+      "url": "https://github.com/VinodHatti-AI-Developer/VinodHatti-Elepcode/commit/dbfc4fecd20288337861c79b9dfa2721745e5270"
     }
   ],
   "pull_requests": [
@@ -95,8 +95,8 @@
   "repositories": [
     {
       "name": "chroma",
-      "full_name": "VinodHatti-Elepcode/chroma",
-      "url": "https://github.com/VinodHatti-Elepcode/chroma",
+      "full_name": "VinodHatti-AI-Developer/chroma",
+      "url": "https://github.com/VinodHatti-AI-Developer/chroma",
       "description": "Open-source search and retrieval database for AI applications.",
       "stars": 0,
       "forks": 0,
@@ -107,8 +107,8 @@
     },
     {
       "name": "cursor",
-      "full_name": "VinodHatti-Elepcode/cursor",
-      "url": "https://github.com/VinodHatti-Elepcode/cursor",
+      "full_name": "VinodHatti-AI-Developer/cursor",
+      "url": "https://github.com/VinodHatti-AI-Developer/cursor",
       "description": "The AI Code Editor",
       "stars": 0,
       "forks": 0,
@@ -119,8 +119,8 @@
     },
     {
       "name": "DeepCode",
-      "full_name": "VinodHatti-Elepcode/DeepCode",
-      "url": "https://github.com/VinodHatti-Elepcode/DeepCode",
+      "full_name": "VinodHatti-AI-Developer/DeepCode",
+      "url": "https://github.com/VinodHatti-AI-Developer/DeepCode",
       "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
       "stars": 0,
       "forks": 0,
@@ -131,8 +131,8 @@
     },
     {
       "name": "dify",
-      "full_name": "VinodHatti-Elepcode/dify",
-      "url": "https://github.com/VinodHatti-Elepcode/dify",
+      "full_name": "VinodHatti-AI-Developer/dify",
+      "url": "https://github.com/VinodHatti-AI-Developer/dify",
       "description": "Production-ready platform for agentic workflow development.",
       "stars": 0,
       "forks": 0,
@@ -143,8 +143,8 @@
     },
     {
       "name": "dify-docs",
-      "full_name": "VinodHatti-Elepcode/dify-docs",
-      "url": "https://github.com/VinodHatti-Elepcode/dify-docs",
+      "full_name": "VinodHatti-AI-Developer/dify-docs",
+      "url": "https://github.com/VinodHatti-AI-Developer/dify-docs",
       "description": "",
       "stars": 0,
       "forks": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "n8n",
-      "full_name": "VinodHatti-Elepcode/n8n",
-      "url": "https://github.com/VinodHatti-Elepcode/n8n",
+      "full_name": "VinodHatti-AI-Developer/n8n",
+      "url": "https://github.com/VinodHatti-AI-Developer/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "stars": 0,
       "forks": 0,
@@ -167,20 +167,20 @@
     },
     {
       "name": "open-source-contributions-portfolio",
-      "full_name": "VinodHatti-Elepcode/open-source-contributions-portfolio",
-      "url": "https://github.com/VinodHatti-Elepcode/open-source-contributions-portfolio",
+      "full_name": "VinodHatti-AI-Developer/open-source-contributions-portfolio",
+      "url": "https://github.com/VinodHatti-AI-Developer/open-source-contributions-portfolio",
       "description": "A comprehensive portfolio showcasing my open source contributions - commits, PRs, issues, forks, and more. Auto-updated with GitHub Actions.",
       "stars": 0,
       "forks": 0,
       "is_fork": false,
       "language": "Python",
       "created_at": "2025-10-16T06:08:43+00:00",
-      "updated_at": "2025-12-31T01:13:23+00:00"
+      "updated_at": "2026-01-01T01:19:31+00:00"
     },
     {
       "name": "parlant",
-      "full_name": "VinodHatti-Elepcode/parlant",
-      "url": "https://github.com/VinodHatti-Elepcode/parlant",
+      "full_name": "VinodHatti-AI-Developer/parlant",
+      "url": "https://github.com/VinodHatti-AI-Developer/parlant",
       "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
       "stars": 0,
       "forks": 0,
@@ -191,8 +191,8 @@
     },
     {
       "name": "transformers",
-      "full_name": "VinodHatti-Elepcode/transformers",
-      "url": "https://github.com/VinodHatti-Elepcode/transformers",
+      "full_name": "VinodHatti-AI-Developer/transformers",
+      "url": "https://github.com/VinodHatti-AI-Developer/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "stars": 0,
       "forks": 0,
@@ -203,8 +203,8 @@
     },
     {
       "name": "VinodHatti-Elepcode",
-      "full_name": "VinodHatti-Elepcode/VinodHatti-Elepcode",
-      "url": "https://github.com/VinodHatti-Elepcode/VinodHatti-Elepcode",
+      "full_name": "VinodHatti-AI-Developer/VinodHatti-Elepcode",
+      "url": "https://github.com/VinodHatti-AI-Developer/VinodHatti-Elepcode",
       "description": "",
       "stars": 0,
       "forks": 0,
